@@ -1,4 +1,11 @@
-# dse210s23hw3p3ClassificationComparison
-Comparing Classifiers using Synthetic Data Sets
 
-See the instructions in the jupyter notebook. Complete the jupyter notebook as per the instructions and submit. Make many commits. Do not just submit the notebook comple with one commit. I want to see the notebook build up through several commits with changes as you figure out what you are doing.
+# Classification Models Comparison
+The goal of this notebook is to explore and compare the decision boundaries of different classifiers using Synthetic Datasets, which provides insight into when certain classification models perform better than others.
+
+The models explored in this notebook are:
+- Naive Bayes
+-  Logistic Regression
+-  Quadratic Discriminant Analysis
+-  Support Vector Machine using RBF Kernel
+-  Decision Tree
+-  K-Nearest Neighbors.
